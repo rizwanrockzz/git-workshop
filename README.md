@@ -1,6 +1,6 @@
 # Git Workshop 😁
 
-Created this repo for Github Workshop.😎😎
+Created this repo for **Github Workshop**. 😎😎
 
 <!-- Comments in README.md file  -->
 
