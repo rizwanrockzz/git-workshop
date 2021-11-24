@@ -41,7 +41,7 @@ Created this repo for Github Workshop.😎😎
 <!--  Emoji Codes :+1: -> Thumb & :tada: -> Party Pop -->
 - [x] @rizwanrockzz :+1: :+1: :tada:
 
-**My [Website](https://www.rizwanrockzz.tech)**
+**😎 My [Website](https://www.rizwanrockzz.tech) 😎**
 
 ![Logo](https://rizwanrockzz.github.io/i/gradient-logo.png)
 
