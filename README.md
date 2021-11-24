@@ -47,7 +47,14 @@ Created this repo for Github Workshop.😎😎
 
 ![Gif](https://tinyurl.com/kk47uptk) 
 
+**Table :**
 
+S.no|Name
+----|----
+1|Rizwan
+2|Rockzz
+3|Hey😉
+3|Hii
 
 
 
