@@ -45,7 +45,7 @@ Created this repo for Github Workshop.😎😎
 
 ![Logo](https://rizwanrockzz.github.io/i/gradient-logo.png)
 
-![Gif](https://tinyurl.com/kk47uptk)
+![Gif](https://tinyurl.com/kk47uptk) 
 
 
 
