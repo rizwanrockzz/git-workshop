@@ -16,7 +16,6 @@ Created this repo for Github Workshop.😎😎
 **Bold**
 
 ***Bold Italic***
-![68747470733a2f2f72697a77616e726f636b7a7a2e6769746875622e696f2f692f6772616469656e742d6c6f676f2e706e67](https://user-images.githubusercontent.com/78429736/143184159-21203c85-2a65-4737-bec2-75aa12901f2f.png)
 
 **Unordered List:**
 
