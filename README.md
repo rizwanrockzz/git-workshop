@@ -43,7 +43,7 @@ Created this repo for Github Workshop.😎😎
 
 **My [Website](https://www.rizwanrockzz.tech)**
 
-![Logo](https://rizwanrockz.github.io/i/gradientlogo.png)
+![Logo](https://rizwanrockzz.github.io/i/gradient-logo.png)
 
 
 
