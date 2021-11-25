@@ -1,0 +1,99 @@
+/* BEFOR PUSHING CREATING FOLDERS AND FILES */
+
+create folder
+cd to the folder
+create a text file
+notepad textfile
+edit textfile
+
+
+/* PUSH IN REPO */
+
+create a repo in github
+git init
+git status
+git add .
+git status
+git config user.name
+git config user.email
+git commit -m "message-here"
+git remote add origin "git-repo-link"
+git remote
+git push origin master
+git branch
+git branch "new-branch-name"
+git checkout "new-branch-name"
+(shifts our default branch to given new branch)
+
+
+/* PULL IN REPO */
+
+create folder
+cd folder
+git init
+git remote 
+git remote add origin("or any other remote name") "repo link which we want to pull"
+git pull remote master
+after recieving files modify them
+git status
+git add .
+git status
+git commit -m "type any mssg"
+git remote
+git push origin master
+
+
+
+-------------------------------------------------
+- 
+- if used fetch
+
+- git fetch ["remote-name"] ["branch-name"]
+- git merge ["branch-name"]
+-
+-------------------------------------------------
+
+*******************************************************
+
+
+
+------------------------------------------------------------------------------
+/* log of above ones */
+
+cisco@itlab3-36 MINGW64 ~/Desktop/changes (master)
+$ git log
+commit 7b26a75a1df1ebb50a16dcb6a15bd7e750d68661 (HEAD -> master, origin/master)
+Author: cisco <cisco@itlab.local>
+Date:   Fri Nov 26 00:12:59 2021 +0530
+
+    modified files in pulled repo
+
+commit 1a951c92de32074fedc160404bcc533603091bc6
+Author: rizwanrockzz <rizwanrockzz13@gmail.com>
+Date:   Thu Nov 25 23:02:41 2021 +0530
+
+    Practicing git
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+-----------------------------------------------------------------------------------------------
+
+/* LINKS */
+
+
+https://training.github.com/downloads/github-git-cheat-sheet/
+
+-------------
+  
+https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
+
+------------
+
+https://www.r-bloggers.com/2020/07/5-steps-to-change-github-default-branch-from-master-to-main/
+
+---------------------------------------------------------------------------------------------
